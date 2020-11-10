@@ -8,14 +8,14 @@
   "license": "GPLv3",
   "private": true,
   "dependencies": {
-    "discord.js": "^12.4.1"
+    "discord.js": ""
   },
   "scripts": {
     "start": "node src/main.js"
   },
   "devDependencies": {
-    "eslint": "^7.12.1",
-    "eslint-config-airbnb-base": "^14.2.0",
-    "eslint-plugin-import": "^2.22.1"
+    "eslint": "",
+    "eslint-config-airbnb-base": "",
+    "eslint-plugin-import": ""
   }
 }
