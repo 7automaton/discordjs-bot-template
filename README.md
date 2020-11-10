@@ -11,7 +11,7 @@
 
 ### To make a new bot:
 1. Clone/fork this template.
-1. Delete `/.git` folder, and run `git init` again in the top directory.
-1. Run `yarn install` or `npm install` and don't remove the generated lockfile
-1. Change username and repo link in `package.json`
-1. Delete this README file
+2. Delete `/.git` folder, and run `git init` again in the top directory.
+3. Run `yarn install` or `npm install` and don't remove the generated lockfile
+4. Change username and repo link in `package.json`
+5. Delete this README file
