@@ -32,6 +32,7 @@ client.on('ready', () => {
 });
 
 client.on('message', (msg) => {
+  if (msg.author === client.user) return;
   if (msg.content === 'ping') {
     msg.reply('Pong!');
   }
