@@ -1,6 +1,6 @@
 /*
   Discord.js Bot Template
-  Copyright (C) 2020 7automaton
+  Copyright (C) 2021 7automaton
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
@@ -17,7 +17,7 @@
 */
 
 console.log(`\nDiscord.js Bot Template
-Copyright (C) 2020 7automaton
+Copyright (C) 2021 7automaton
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
 under certain conditions.\n`);
