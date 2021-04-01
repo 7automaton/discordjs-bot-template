@@ -23,7 +23,7 @@ This is free software, and you are welcome to redistribute it
 under certain conditions.\n`);
 
 const Discord = require('discord.js');
-const config = require('./config.json');
+const config = require('../config.json');
 
 const client = new Discord.Client();
 
